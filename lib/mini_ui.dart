@@ -1,7 +1,13 @@
 library mini_ui;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+/// Widgets Exports
+export 'src/widgets/mini_text.dart';
+export 'src/widgets/mini_button.dart';
+export 'src/widgets/mini_input_field.dart';
+
+/// Themes Exports
+export 'src/shared/colors.dart';
+export 'src/shared/styles.dart';
+
+/// Helpers Exports
+export 'src/shared/helpers.dart';
