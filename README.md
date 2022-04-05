@@ -1,6 +1,6 @@
 # mini_ui
 
-Mini UI is a Flutter package. It is a Sample for Flutter UI Design System.
+Mini UI is a Flutter Design System. A highly customizable flutter ui components.
 
 **Step 1:**
 Add `mini_ui : ^1.0.0` to your `pubspec.yaml`
